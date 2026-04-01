@@ -79,6 +79,7 @@ physics-quiz/
 
 - Scores are stored **in memory** and will reset when the server restarts. For persistent storage, a database (e.g., SQLite) would be needed.
 - The app runs in debug mode by default — set `debug=False` for production use.
+- The test username and password are both “1@example.com”
 
 ## License
 
